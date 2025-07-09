@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lokimcpuniverse-tableau-mcp-server-badge.png)](https://mseep.ai/app/lokimcpuniverse-tableau-mcp-server)
+
 # Tableau MCP Server
 
 <div align="center">
